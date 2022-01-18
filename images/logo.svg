@@ -1,0 +1,8 @@
+<svg width="141" height="140" viewBox="0 0 141 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo">
+<path id="lefttop" d="M0 20C0 8.9543 8.95431 0 20 0H65V45C65 56.0457 56.0457 65 45 65H0V20Z" fill="#92AAFF"/>
+<path id="rightbottom" d="M76 95C76 83.9543 84.9543 75 96 75H141V120C141 131.046 132.046 140 121 140H76V95Z" fill="#92AAFF"/>
+<path id="righttop" d="M76 0H121C132.046 0 141 8.95431 141 20V65H96C84.9543 65 76 56.0457 76 45V0Z" fill="#8CFF79"/>
+<path id="leftbottom" d="M0 75H45C56.0457 75 65 83.9543 65 95V140H20C8.9543 140 0 131.046 0 120V75Z" fill="#8CFF79"/>
+</g>
+</svg>
